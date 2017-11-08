@@ -1,0 +1,5 @@
+C:\Users\Gaby\source\repos\testKunder\testKunder.capaObjeto\bin\Debug\testKunder.capaObjeto.dll
+C:\Users\Gaby\source\repos\testKunder\testKunder.capaObjeto\bin\Debug\testKunder.capaObjeto.pdb
+C:\Users\Gaby\source\repos\testKunder\testKunder.capaObjeto\obj\Debug\testKunder.capaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\source\repos\testKunder\testKunder.capaObjeto\obj\Debug\testKunder.capaObjeto.dll
+C:\Users\Gaby\source\repos\testKunder\testKunder.capaObjeto\obj\Debug\testKunder.capaObjeto.pdb
